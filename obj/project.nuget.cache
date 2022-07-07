@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "noxDghfFIpVakeRgjihrDS9DoWxlcxNQuedKi3WLr2xwV9HVfCx6LrbJhDiJvyQqrDAR9a01ZFo0dBEwbZt9ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Senanur Kotankiran\\Desktop\\KampIntro\\KampIntro\\GameDemo\\GameDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\system.private.servicemodel.4.7.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.security.cryptography.pkcs\\4.5.0\\system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\system.servicemodel.duplex.4.7.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\system.servicemodel.http.4.7.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\system.servicemodel.nettcp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\system.servicemodel.primitives.4.7.0.nupkg.sha512",
+    "C:\\Users\\Senanur Kotankiran\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\system.servicemodel.security.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
